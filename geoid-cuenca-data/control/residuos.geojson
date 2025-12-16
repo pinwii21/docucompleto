@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "VAL-01",
+        "residuo_cm": -3.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.47,
+          -2.89
+        ]
+      }
+    }
+  ]
+}

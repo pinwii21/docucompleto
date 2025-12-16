@@ -1,0 +1,10 @@
+{
+  "nombre": "Modelo Geoidal Local de la Ciudad de Cuenca",
+  "descripcion": "Modelo geoidal local demostrativo para la ciudad de Cuenca.",
+  "fecha_elaboracion": "2025-02",
+  "area_estudio": "Cantón Cuenca",
+  "sistema_referencia_horizontal": "SIRGAS / UTM Zona 17S",
+  "sistema_referencia_vertical": "EGM2008 ajustado",
+  "metodo_interpolacion": "Kriging ordinario",
+  "resolucion_espacial": "10 m"
+}

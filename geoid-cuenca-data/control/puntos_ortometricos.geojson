@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BM-01",
+        "H_ortometrica_m": 2547.12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5,
+          -2.9
+        ]
+      }
+    }
+  ]
+}

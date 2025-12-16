@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GNSS-01",
+        "h_elipsoidal_m": 2578.432
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5,
+          -2.9
+        ]
+      }
+    }
+  ]
+}

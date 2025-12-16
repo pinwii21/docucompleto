@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "valor_N_m": -31.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.54,
+            -2.92
+          ],
+          [
+            -78.46,
+            -2.85
+          ]
+        ]
+      }
+    }
+  ]
+}

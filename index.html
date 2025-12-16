@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Geoide Cuenca | Visualizador Técnico</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="logo">◉</span>
+    <div>
+      <strong>Geoide Cuenca</strong>
+      <small>Modelo Geoidal Local</small>
+    </div>
+  </div>
+</header>
+
+<div class="layout">
+  <aside class="sidebar">
+    <h3>Capas</h3>
+    <div id="layerControl"></div>
+
+    <h3>Información</h3>
+    <div id="metadata" class="meta"></div>
+  </aside>
+
+  <main id="map"></main>
+</div>
+
+<script type="module" src="js/map.js"></script>
+</body>
+</html>
